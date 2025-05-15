@@ -21,3 +21,7 @@ variable = 24
 print (variable)
 variable = "Character"
 print (variable)
+
+a = input ("First value:")
+b = input ("Second value:")
+print (a,b)
